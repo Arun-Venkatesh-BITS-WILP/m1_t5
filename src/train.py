@@ -46,7 +46,7 @@ def train_model():
 
     # Save the model
     model.save("models/cnn_model.h5")
-    print("CNN model trained and saved successfully!")
+    print("CNN model trained!!!")
 
 
 if __name__ == "__main__":
